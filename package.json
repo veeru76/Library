@@ -1,0 +1,13 @@
+{
+  "name": "Library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/veeru76/Library.git",
+  "author": "veeru",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
